@@ -1,5 +1,5 @@
 ---
-title: Vote For Pedro
+title: Vote For Brent
 author: content/authors/napolean.md
 _template: article
 ---
